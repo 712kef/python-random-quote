@@ -3,7 +3,7 @@ def primary():
   f = open("quotes.txt")
   quotes = f.readlines()
   f.close() #comment
-  print(quotes[0]) Anything added dilutes everything else
+  print(quotes[0])
   
   if __name__== "__primary__":
   primary()
