@@ -3,7 +3,8 @@ def primary():
   quotes = f.readlines()
   f.close() #comment
 
-  print(quotes)
+  print(quotes) Anything added dilutes everything else
+
 
 if __name__== "__primary__":
   primary()
