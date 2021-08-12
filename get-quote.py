@@ -1,5 +1,5 @@
 def primary():
-  # print("Keep it logically awesome.")
+  # print("Anything added dilutes everything else")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
